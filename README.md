@@ -18,7 +18,7 @@ chia sẽ một số thông tin thêm về định hướng cho các dự án ph
 
 ## 📦 Tính năng chính
 
-- ✅ **Sử dụng API chính thức từ WinRAR:**
+- ✅ **Sử dụng API chính thức từ 721PC:**
   - `https://api.itdev721.workers.dev/?action=WinrarVersionJson`
   - Lấy dữ liệu về phiên bản (`VersionBeta`) và số hiệu bản dựng (`NumberversionCurrent`)
 
