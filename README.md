@@ -8,6 +8,9 @@ username và licensetype bằng văn bản có các ký tự đặc biệt.
 phần mềm winrar sẽ báo lỗi license không hợp lệ.
 
 
+#tổng hợp 1 số tool tạo keygen winrar online sử dụng công nghệ wasm
+https://winrar.netlify.app/
+
 chia sẽ một số thông tin thêm về định hướng cho các dự án phát triển tư duy công nghệ tiên tiến "ALL IN ONE"
 
 # 🚀 WinRAR Premium
